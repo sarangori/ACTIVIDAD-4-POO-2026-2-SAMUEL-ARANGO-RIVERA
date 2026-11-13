@@ -9,4 +9,4 @@ Docente: Walter Hugo Arboleda Mazo
 
 Este repositorio contiene los códigos fuente de los cinco ejercicios planteados para la actividad 4
 
-La idea de esta entrega fue programar usando tkinter para interfaces graficas
+La idea de esta entrega fue programar importando tkinter para interfaces graficas
